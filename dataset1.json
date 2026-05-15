@@ -1,0 +1,24 @@
+[
+  {
+    "prompt_inputs": {},
+    "solution_criteria": [
+      "Unable to generate meaningful test case - task description and allowed input keys are empty"
+    ],
+    "task_description": "",
+    "scenario": "Generic placeholder task - unable to generate meaningful test scenarios without a specific task description"
+  },
+  {
+    "prompt_inputs": {},
+    "solution_criteria": [
+      "Unable to generate test case - no task description, input keys, or specific evaluation idea provided"
+    ],
+    "task_description": "",
+    "scenario": "No prompt inputs specification provided - cannot design scenarios targeting particular input formats or constraints"
+  },
+  {
+    "prompt_inputs": {},
+    "solution_criteria": [],
+    "task_description": "",
+    "scenario": "Missing context - recommend providing the actual task description and input specification to generate relevant, actionable testing ideas"
+  }
+]
